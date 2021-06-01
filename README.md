@@ -35,3 +35,6 @@ para que deje de contar creamos una funcion que utiliza el parametro tiempo tota
         }
     }, 1000)
 };
+
+
+Pagina: https://cronometro-nine.vercel.app/
